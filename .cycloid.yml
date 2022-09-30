@@ -2,7 +2,7 @@
 ---
 version: '2'
 name: 'Compute'
-canonical: 'stack-compute'
+canonical: 'stack-compute-quotas'
 status: 'public'
 description: |
   This stack allows to deploy a configure compute instance in one of the available providers.
@@ -18,7 +18,7 @@ keywords:
   - 'provider:gcp'
   - 'gce'
 author: 'Cycloid'
-image: 'https://raw.githubusercontent.com/cycloid-community-catalog/stack-compute/master/docs/icon.png'
+image: 'https://raw.githubusercontent.com/cycloid-community-catalog/stack-compute-quotas/master/docs/icon.png'
 technologies:
    - technology: AWS
      version: n/a
